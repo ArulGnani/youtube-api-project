@@ -1,3 +1,4 @@
+
 // getting submit event from the form
 document.getElementById("form").addEventListener("submit",cName)
 
